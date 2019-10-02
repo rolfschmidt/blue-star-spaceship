@@ -1,0 +1,23 @@
+{
+    "name": "blue star spaceship",
+    "main": "index.html",
+    "description": "A simple game with a blue star spaceship.",
+    "version": "1.0.0",
+    "keywords": [ "blue", "star", "space", "ship" ],
+    "window": {
+        "icon": "assets/ship.png",
+        "title": "blue star spaceship",
+        "toolbar": false,
+        "frame": false,
+        "width": 800,
+        "height": 960,
+        "position": "center",
+        "min_wdith": 800,
+        "min_height": 960,
+        "max_width": 800,
+        "max_height": 960
+    },
+    "webkit": {
+        "plugin": true
+    }
+}
